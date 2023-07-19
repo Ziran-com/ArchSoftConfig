@@ -1,4 +1,5 @@
 bspwm
+sxhkd
 lightdm
 web-greeter
 lemonbar
